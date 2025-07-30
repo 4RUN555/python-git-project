@@ -1,4 +1,4 @@
-def sayhello(name):
+def say_hello(name):
     print(f"Hello,{name}!")
 if name == "main":
-    sayhello("World")
+    say_hello("World")
